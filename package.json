@@ -1,7 +1,5 @@
 {
-  "dependencies": {
-    "jquery": "^3.6.1",
-    "popper.js": "^1.16.1",
-    "semantic-ui-sass": "^2.4.2"
-  }
+  "name": "message_me",
+  "private": true,
+  "dependencies": {}
 }
