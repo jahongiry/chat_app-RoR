@@ -1,24 +1,42 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Enumerable-Ruby
 
-Things you may want to cover:
+> In this project we used Ruby to re-create a few of it's in-built Enumerable. We will be following Gitflow here. It's a pair programming project. It has proper error handling as mentioned in the documentation.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- GitHub
 
-* Configuration
+## Getting Started
 
-* Database creation
+**To get this project up and running, you should do the following:**
+Clone the repository to your local machine.
+- https://github.com/jahongiry/Enumerable-Ruby.git
+- cd Enumerable
 
-* Database initialization
+### Prerequisites
+**Ruby needs to be installed in system**
 
-* How to run the test suite
+### Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+| 👤 Name          | Github                                     | Twitter                                               | LinkedIn                                                       |
+| ---------------- | ------------------------------------------ | ----------------------------------------------------- | -------------------------------------------------------------- |
+| Jahongir Yusupov | [@Jahongir Yusupov](https://github.com/jahongiry) | [@Jahongir Yusupov](https://twitter.com/JahongirYusup13) | [@Jahongir Yusupov](https://www.linkedin.com/in/jahongir-yusupov/) |
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to Microverse for giving me this project to work on.
+
+## 📝 License
+
+This project is owned by Mohammed Raad and Jahongir Yusupov.
