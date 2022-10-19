@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Enumerable-Ruby
+# Chat app with rails
 
 > In this project we used Ruby to re-create a few of it's in-built Enumerable. We will be following Gitflow here. It's a pair programming project. It has proper error handling as mentioned in the documentation.
 
 ## Built With
 
-- Ruby
+- Ruby on Rails
 - GitHub
 
 ## Getting Started
